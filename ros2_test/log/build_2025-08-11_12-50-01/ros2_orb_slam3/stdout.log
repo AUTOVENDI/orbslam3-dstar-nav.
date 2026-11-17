@@ -1,0 +1,14 @@
+[  0%] Built target ament_cmake_python_copy_ros2_orb_slam3
+[35m[1mConsolidate compiler generated dependencies of target orb_slam3_lib[0m
+[  2%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Tracking.cc.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/LoopClosing.cc.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/MapDrawer.cc.o[0m
+running egg_info
+writing ros2_orb_slam3.egg-info/PKG-INFO
+writing dependency_links to ros2_orb_slam3.egg-info/dependency_links.txt
+writing top-level names to ros2_orb_slam3.egg-info/top_level.txt
+reading manifest file 'ros2_orb_slam3.egg-info/SOURCES.txt'
+writing manifest file 'ros2_orb_slam3.egg-info/SOURCES.txt'
+[  7%] Built target ament_cmake_python_build_ros2_orb_slam3_egg
+[ 10%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Optimizer.cc.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Frame.cc.o[0m

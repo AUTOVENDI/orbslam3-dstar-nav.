@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e83bbf4d1fee9b5efa8b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ros2_orb_slam3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_ros2_orb_slam3_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_ros2_orb_slam3_egg-c63073835afd2bfbc732.json",
+					"name" : "ament_cmake_python_build_ros2_orb_slam3_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_ros2_orb_slam3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_ros2_orb_slam3-de669e1b475ca9e47036.json",
+					"name" : "ament_cmake_python_copy_ros2_orb_slam3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_example-3a234f2744903f0ae388.json",
+					"name" : "mono_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_node_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_node_cpp-950c0f4dcf58d3976270.json",
+					"name" : "mono_node_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "orb_slam3_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-orb_slam3_lib-4a5865ae67d2f948b805.json",
+					"name" : "orb_slam3_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd-2a4a984bb63a96be64d0.json",
+					"name" : "rgbd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_orb_slam3_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_orb_slam3_uninstall-40d01bdc515819f18954.json",
+					"name" : "ros2_orb_slam3_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-db5a3d6555f3026610f9.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/autovendi/ros2_test/build/ros2_orb_slam3",
+		"source" : "/home/autovendi/ros2_test/src/ros2_orb_slam3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

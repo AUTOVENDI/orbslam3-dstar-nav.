@@ -1,0 +1,55 @@
+[0.012s] Invoking command in '/home/autovendi/ros2_test/build/ros2_orb_slam3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autovendi/fydp_harp/install/vision_module:/home/autovendi/fydp_harp/install/teleops_module:/home/autovendi/fydp_harp/install/speech_module:/home/autovendi/fydp_harp/install/neck_module:/home/autovendi/fydp_harp/install/mqtt_module:/home/autovendi/fydp_harp/install/face_animations:/opt/ros/humble /usr/bin/cmake --build /home/autovendi/ros2_test/build/ros2_orb_slam3 -- -j4 -l4
+[0.078s] [  0%] Built target ament_cmake_python_copy_ros2_orb_slam3
+[0.130s] [ 74%] Built target orb_slam3_lib
+[0.202s] [ 89%] Built target mono_node_cpp
+[0.202s] [ 89%] Built target rgbd
+[0.207s] [100%] Built target mono_example
+[0.406s] running egg_info
+[0.407s] writing ros2_orb_slam3.egg-info/PKG-INFO
+[0.407s] writing dependency_links to ros2_orb_slam3.egg-info/dependency_links.txt
+[0.407s] writing top-level names to ros2_orb_slam3.egg-info/top_level.txt
+[0.410s] reading manifest file 'ros2_orb_slam3.egg-info/SOURCES.txt'
+[0.411s] writing manifest file 'ros2_orb_slam3.egg-info/SOURCES.txt'
+[0.441s] [100%] Built target ament_cmake_python_build_ros2_orb_slam3_egg
+[0.454s] Invoked command in '/home/autovendi/ros2_test/build/ros2_orb_slam3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autovendi/fydp_harp/install/vision_module:/home/autovendi/fydp_harp/install/teleops_module:/home/autovendi/fydp_harp/install/speech_module:/home/autovendi/fydp_harp/install/neck_module:/home/autovendi/fydp_harp/install/mqtt_module:/home/autovendi/fydp_harp/install/face_animations:/opt/ros/humble /usr/bin/cmake --build /home/autovendi/ros2_test/build/ros2_orb_slam3 -- -j4 -l4
+[0.465s] Invoking command in '/home/autovendi/ros2_test/build/ros2_orb_slam3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autovendi/fydp_harp/install/vision_module:/home/autovendi/fydp_harp/install/teleops_module:/home/autovendi/fydp_harp/install/speech_module:/home/autovendi/fydp_harp/install/neck_module:/home/autovendi/fydp_harp/install/mqtt_module:/home/autovendi/fydp_harp/install/face_animations:/opt/ros/humble /usr/bin/cmake --install /home/autovendi/ros2_test/build/ros2_orb_slam3
+[0.473s] -- Install configuration: ""
+[0.473s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/libDBoW2.so
+[0.473s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/libg2o.so
+[0.473s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/include
+[0.473s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/include/ros2_orb_slam3
+[0.474s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/include/ros2_orb_slam3/common.hpp
+[0.474s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_node_cpp
+[0.474s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_example
+[0.474s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/liborb_slam3_lib.so.
+[0.475s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/liborb_slam3_lib.so
+[0.475s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/rgbd
+[0.475s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/pythonpath.sh
+[0.476s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/pythonpath.dsv
+[0.476s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info
+[0.476s] -- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.476s] -- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/PKG-INFO
+[0.476s] -- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.476s] -- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/top_level.txt
+[0.477s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3
+[0.477s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3/__init__.py
+[0.511s] Listing '/home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3'...
+[0.516s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_driver_node.py
+[0.516s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ament_index/resource_index/package_run_dependencies/ros2_orb_slam3
+[0.516s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ament_index/resource_index/parent_prefix_path/ros2_orb_slam3
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/ament_prefix_path.sh
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/ament_prefix_path.dsv
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/path.sh
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/path.dsv
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.bash
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.sh
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.zsh
+[0.517s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.dsv
+[0.518s] -- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/package.dsv
+[0.518s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ament_index/resource_index/packages/ros2_orb_slam3
+[0.518s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.518s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.518s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ros2_orb_slam3Config.cmake
+[0.518s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ros2_orb_slam3Config-version.cmake
+[0.518s] -- Up-to-date: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/package.xml
+[0.519s] Invoked command in '/home/autovendi/ros2_test/build/ros2_orb_slam3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/autovendi/fydp_harp/install/vision_module:/home/autovendi/fydp_harp/install/teleops_module:/home/autovendi/fydp_harp/install/speech_module:/home/autovendi/fydp_harp/install/neck_module:/home/autovendi/fydp_harp/install/mqtt_module:/home/autovendi/fydp_harp/install/face_animations:/opt/ros/humble /usr/bin/cmake --install /home/autovendi/ros2_test/build/ros2_orb_slam3

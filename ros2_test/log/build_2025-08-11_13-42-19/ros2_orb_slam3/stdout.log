@@ -1,0 +1,82 @@
+[  0%] Built target ament_cmake_python_copy_ros2_orb_slam3
+[35m[1mConsolidate compiler generated dependencies of target orb_slam3_lib[0m
+[  2%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Sim3Solver.cc.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/KeyFrameDatabase.cc.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Optimizer.cc.o[0m
+running egg_info
+writing ros2_orb_slam3.egg-info/PKG-INFO
+writing dependency_links to ros2_orb_slam3.egg-info/dependency_links.txt
+writing top-level names to ros2_orb_slam3.egg-info/top_level.txt
+reading manifest file 'ros2_orb_slam3.egg-info/SOURCES.txt'
+writing manifest file 'ros2_orb_slam3.egg-info/SOURCES.txt'
+[  7%] Built target ament_cmake_python_build_ros2_orb_slam3_egg
+[ 10%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Viewer.cc.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/ImuTypes.cc.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/G2oTypes.cc.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/CameraModels/Pinhole.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/CameraModels/KannalaBrandt8.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/OptimizableTypes.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/MLPnPsolver.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/GeometricTools.cc.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/TwoViewReconstruction.cc.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Config.cc.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/orb_slam3_lib.dir/orb_slam3/src/Settings.cc.o[0m
+[ 38%] [32m[1mLinking CXX shared library liborb_slam3_lib.so[0m
+[ 74%] Built target orb_slam3_lib
+[ 82%] [32mBuilding CXX object CMakeFiles/rgbd.dir/src/rgbd/rgbd.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/mono_node_cpp.dir/src/monocular-slam-node.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/mono_example.dir/src/mono_example.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/mono_example.dir/src/common.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/mono_node_cpp.dir/src/mono.cpp.o[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/rgbd.dir/src/rgbd/rgbd-slam-node_UPDATED.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/mono_example.dir/src/monocular-slam-node.cpp.o[0m
+[ 94%] [32m[1mLinking CXX executable mono_node_cpp[0m
+[ 94%] Built target mono_node_cpp
+[ 97%] [32m[1mLinking CXX executable rgbd[0m
+[ 97%] Built target rgbd
+[100%] [32m[1mLinking CXX executable mono_example[0m
+[100%] Built target mono_example
+-- Install configuration: ""
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/libDBoW2.so
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/libg2o.so
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/include
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/include/ros2_orb_slam3
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/include/ros2_orb_slam3/common.hpp
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_node_cpp
+-- Set runtime path of "/home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_node_cpp" to ""
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_example
+-- Set runtime path of "/home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_example" to ""
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/liborb_slam3_lib.so.
+-- Set runtime path of "/home/autovendi/ros2_test/install/ros2_orb_slam3/lib/liborb_slam3_lib.so." to ""
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/liborb_slam3_lib.so
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/rgbd
+-- Set runtime path of "/home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/rgbd" to ""
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/pythonpath.sh
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/pythonpath.dsv
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3-1.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3/__init__.py
+Listing '/home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3'...
+Compiling '/home/autovendi/ros2_test/install/ros2_orb_slam3/local/lib/python3.10/dist-packages/ros2_orb_slam3/__init__.py'...
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/lib/ros2_orb_slam3/mono_driver_node.py
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ament_index/resource_index/package_run_dependencies/ros2_orb_slam3
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ament_index/resource_index/parent_prefix_path/ros2_orb_slam3
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/ament_prefix_path.sh
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/ament_prefix_path.dsv
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/path.sh
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/environment/path.dsv
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.bash
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.sh
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.zsh
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/local_setup.dsv
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/package.dsv
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ament_index/resource_index/packages/ros2_orb_slam3
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ros2_orb_slam3Config.cmake
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/cmake/ros2_orb_slam3Config-version.cmake
+-- Installing: /home/autovendi/ros2_test/install/ros2_orb_slam3/share/ros2_orb_slam3/package.xml
