@@ -1,0 +1,12 @@
+# ROS 2 build artifacts
+ros2_test/build/
+ros2_test/install/
+ros2_test/log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Files over GitHub's 100 MB limit
+ros2_test/ORBvoc.txt
+ros2_test/src/ros2_orb_slam3.zip
